@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>New Winter Collection 2026-version2
+                <h1>New Winter Collection 2026-version3
 
 </h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
